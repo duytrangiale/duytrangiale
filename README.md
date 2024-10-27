@@ -1,5 +1,6 @@
-# Hi there 😎!!! My name is Duy Le. Welcome to my space!!!! ![](https://komarev.com/ghpvc/?username=duytrangiale)
+# Hi, I'm Duy Le. Welcome to my page 😎 ![](https://komarev.com/ghpvc/?username=duytrangiale)
 
+# 📚 Education
 📖 Doctor of Philosophy in Engineering - Federation University, Australia   
 
 👨‍🎓 Master in Mechatronics Engineering - Australian National University, Australia 
