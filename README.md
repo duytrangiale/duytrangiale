@@ -1,32 +1,74 @@
-# Hi, I'm Duy Le. Welcome to my page 😎 ![](https://komarev.com/ghpvc/?username=duytrangiale)
+<h1 align="center">Hi, I'm Duy Le 👋</h1>
+<h3 align="center">PhD · Computational Modelling & Deep Learning · CSIRO</h3>
 
-# 📚 Education
-👨‍🎓 Doctor of Philosophy in Engineering - Federation University, Australia   
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=duytrangiale&color=blueviolet" alt="profile views" />
+</p>
 
-👨‍🎓 Master in Mechatronics Engineering - Australian National University, Australia 
+<p align="center">
+  I build neural network surrogates for granular material simulation and physics-informed ML systems
+  and I'm increasingly focused on applied AI/agentic engineering. Currently exploring industry roles in
+  ML/AI engineering, robotics, and computational modelling across Australia.
+</p>
 
-👨‍🎓 Bachelor in Mechatronics Engineering - Ho Chi Minh city University of Technology, Vietnam
+<p align="center">
+  <a href="https://duytrangiale.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/duytrangiale"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://scholar.google.com.au/citations?user=HEg9VbAAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
+  <a href="https://www.researchgate.net/profile/Duy-Le-3"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" /></a>
+  <a href="https://twitter.com/DuyLe28743091"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+</p>
 
-# ✍ Research areas
-- **Deep Learning**
-- **Discrete Element Method**
-- **Computational Modeling and Simulation**
-- **Mechatronics Design**
+---
 
-# 💻 Tech Stack
+### 📚 Education
+
+- 👨‍🎓 **PhD in Engineering** — Federation University Australia (with CSIRO, fully RTP-funded)
+  *Thesis: "Accelerated Surrogate Modelling of Granular Materials using Artificial Neural Networks"*
+- 👨‍🎓 **Master of Engineering, Mechatronics** (GPA: 6.2/7.0) — Australian National University
+- 👨‍🎓 **Bachelor of Engineering, Mechatronics** — Ho Chi Minh City University of Technology, Vietnam
+
+### ✍️ Research Areas
+
+- **Deep Learning & Neural Networks**
+- **Discrete Element Method (DEM) & Surrogate Modelling**
+- **Physics-Informed Neural Networks**
+- **Computational Modelling & Simulation**
+- **Mechatronics Design & Embedded Systems**
+
+### 🚀 Featured Projects
+
+| Project | Description |
+|---|---|
+| [**simple_notebooklm**](https://github.com/duytrangiale/simple_notebooklm) | A document-grounded RAG learning assistant inspired by NotebookLM — upload PDFs, get grounded Q&A, summaries, quizzes, and flashcards with source citations. |
+| [**HapticExoskeleton**](https://github.com/duytrangiale/HapticExoskeleton) | Simulation framework and controller design for a force-feedback VR hand exoskeleton (Series Elastic Actuator, bio-inspired linkage). |
+
+### 💻 Tech Stack
+
+**AI / ML**
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![LangChain](https://img.shields.io/badge/🦜️🔗_LangChain-1C3C3C?style=for-the-badge)
 
-# 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=duytrangiale&theme=dark&hide_border=false&include_all_commits=false&count_private=true&cache=off)
+**Systems / Infra**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=duytrangiale&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact&cache=off)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=duytrangiale&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### 📊 GitHub Stats
+ 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=duytrangiale&theme=dark&hide_border=false&include_all_commits=false&count_private=true&cache=off" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duytrangiale&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact&cache=off" height="165" />
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=duytrangiale&limit=2&theme=dark&combine_all_yearly_contributions=true)
+---
+
+<p align="center"><i>Open to ML/AI engineering, robotics, and computational modelling roles in Australia — feel free to reach out!</i></p>
