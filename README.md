@@ -36,7 +36,7 @@
 - **Computational Modelling & Simulation**
 - **Mechatronics Design & Embedded Systems**
 
-### 🚀 Featured Projects
+### 🚀 Side Projects
 
 | Project | Description |
 |---|---|
