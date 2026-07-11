@@ -41,7 +41,7 @@
 | Project | Description |
 |---|---|
 | [**simple_notebooklm**](https://github.com/duytrangiale/simple_notebooklm) | A document-grounded RAG learning assistant inspired by NotebookLM — upload PDFs, get grounded Q&A, summaries, quizzes, and flashcards with source citations. |
-| [**HapticExoskeleton**](https://github.com/duytrangiale/HapticExoskeleton) | Simulation framework and controller design for a force-feedback VR hand exoskeleton (Series Elastic Actuator, bio-inspired linkage). |
+| [**urbancool_melbourne**](https://github.com/duytrangiale/urbancool_melbourne) ([demo](https://urbancool-melbourne.onrender.com/)) | ML dashboard predicting urban heat vulnerability across Greater Melbourne from a Random Forest model (R² = 0.57): FastAPI backend, interactive SHAP explanations, and a live green-infrastructure what-if simulator. |
 
 ### 💻 Tech Stack
 
