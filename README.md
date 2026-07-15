@@ -42,6 +42,7 @@
 |---|---|
 | [**simple_notebooklm**](https://github.com/duytrangiale/simple_notebooklm) | A document-grounded RAG learning assistant inspired by NotebookLM — upload PDFs, get grounded Q&A, summaries, quizzes, and flashcards with source citations. |
 | [**urbancool_melbourne**](https://github.com/duytrangiale/urbancool_melbourne) ([demo](https://urbancool-melbourne.onrender.com/)) | ML dashboard predicting urban heat vulnerability across Greater Melbourne from a Random Forest model (R² = 0.57): FastAPI backend, interactive SHAP explanations, and a live green-infrastructure what-if simulator. |
+| [**eco_risk_au**](https://github.com/duytrangiale/eco_risk_au) | Geospatial + LLM ecosystem climate-risk platform for Victoria, Australia: PostGIS ETL pipeline computing a composite climate risk score per vegetation patch, a LangGraph + Gemini RAG pipeline extracting structured risk data from real IUCN Red List of Ecosystems documents, and a React + Leaflet dashboard. |
 
 ### 💻 Tech Stack
 
