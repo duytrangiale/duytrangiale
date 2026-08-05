@@ -63,13 +63,6 @@
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge)
 
-### 📊 GitHub Stats
- 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=duytrangiale&theme=dark&hide_border=false&include_all_commits=false&count_private=true&cache=off" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duytrangiale&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact&cache=off" height="165" />
-</p>
-
 ---
 
 <p align="center"><i>Open to ML/AI engineering, robotics, and computational modelling roles in Australia — feel free to reach out!</i></p>
