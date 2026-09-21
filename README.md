@@ -7,8 +7,8 @@
 
 <p align="center">
   I build neural network surrogates for granular material simulation and physics-informed ML systems
-  and I'm increasingly focused on applied AI/agentic engineering. Currently exploring industry roles in
-  ML/AI engineering, robotics, and computational modelling across Australia.
+  and I'm increasingly focused on applied AI engineering for digital twin and predictive maintenance. Currently exploring industry roles in
+  ML/AI engineering, data science and computational modelling across Australia.
 </p>
 
 <p align="center">
@@ -30,11 +30,11 @@
 
 ### ✍️ Research Areas
 
-- **Deep Learning & Neural Networks**
+- **Deep Learning for physics simulation**
 - **Discrete Element Method (DEM) & Surrogate Modelling**
 - **Physics-Informed Neural Networks**
 - **Computational Modelling & Simulation**
-- **Mechatronics Design & Embedded Systems**
+- **Mechatronics Systems**
 
 ### 🚀 Side Projects
 
