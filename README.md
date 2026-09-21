@@ -28,13 +28,13 @@
 - 👨‍🎓 **Master of Engineering, Mechatronics** (GPA: 6.2/7.0) — Australian National University
 - 👨‍🎓 **Bachelor of Engineering, Mechatronics** — Ho Chi Minh City University of Technology, Vietnam
 
-### ✍️ Research Areas
+### ✍️ Research Interests
 
 - **Deep Learning for physics simulation**
 - **Discrete Element Method (DEM) & Surrogate Modelling**
 - **Physics-Informed Neural Networks**
 - **Computational Modelling & Simulation**
-- **Mechatronics Systems**
+- **Digital Twin & Predictive Maintenance**
 
 ### 🚀 Side Projects
 
@@ -65,4 +65,4 @@
 
 ---
 
-<p align="center"><i>Open to ML/AI engineering, robotics, and computational modelling roles in Australia — feel free to reach out!</i></p>
+<p align="center"><i>Open to ML/AI engineering, data science, and computational modelling roles in Australia — feel free to reach out!</i></p>
