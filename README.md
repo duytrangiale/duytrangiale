@@ -35,6 +35,7 @@
 - **Physics-Informed Neural Networks**
 - **Computational Modelling & Simulation**
 - **Digital Twin & Predictive Maintenance**
+- **Environmental Intelligence**
 
 ### 🚀 Side Projects
 
