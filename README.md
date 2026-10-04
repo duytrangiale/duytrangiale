@@ -7,8 +7,7 @@
 
 <p align="center">
   I build neural network surrogates for granular material simulation and physics-informed ML systems
-  and I'm increasingly focused on applied AI engineering for digital twin and predictive maintenance. Currently exploring industry roles in
-  ML/AI engineering, data science and computational modelling across Australia.
+  and I'm increasingly focused on applied AI engineering for digital twin, predictive maintenance, and environmental intelligence. Currently exploring industry roles in ML/AI engineering, data science and computational modelling across Australia.
 </p>
 
 <p align="center">
@@ -23,7 +22,7 @@
 
 ### 📚 Education
 
-- 👨‍🎓 **PhD in Engineering** — Federation University Australia (with CSIRO, fully RTP-funded)
+- 👨‍🎓 **PhD in Engineering** — Federation University Australia (collaboration with CSIRO, fully RTP-funded)
   *Thesis: "Accelerated Surrogate Modelling of Granular Materials using Artificial Neural Networks"*
 - 👨‍🎓 **Master of Engineering, Mechatronics** (GPA: 6.2/7.0) — Australian National University
 - 👨‍🎓 **Bachelor of Engineering, Mechatronics** — Ho Chi Minh City University of Technology, Vietnam
