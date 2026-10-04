@@ -48,22 +48,34 @@
 
 ### 💻 Tech Stack
 
-**AI / ML**
+**🤖 Digital Twin & Simulation**
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![SimPy](https://img.shields.io/badge/SimPy-2E8B57?style=for-the-badge)
+![OpenUSD](https://img.shields.io/badge/OpenUSD-76B900?style=for-the-badge)
+
+**📈 Predictive Maintenance & ML**
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-AA4C02?style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+
+**🌍 Environmental & Geospatial Intelligence**
+
+![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge)
+![PostGIS](https://img.shields.io/badge/PostGIS%2FPostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Rasterio](https://img.shields.io/badge/Rasterio-4C9A2A?style=for-the-badge)
+![xarray](https://img.shields.io/badge/xarray-00979D?style=for-the-badge)
+
+**🧠 LLM / RAG & Systems**
+
 ![LangChain](https://img.shields.io/badge/🦜️🔗_LangChain-1C3C3C?style=for-the-badge)
-
-**Systems / Infra**
-
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge)
 
 ---
 
