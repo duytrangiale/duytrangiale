@@ -53,7 +53,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![SimPy](https://img.shields.io/badge/SimPy-2E8B57?style=for-the-badge)
-![OpenUSD](https://img.shields.io/badge/OpenUSD-76B900?style=for-the-badge)
+
 
 **📈 Predictive Maintenance & ML**
 
@@ -66,16 +66,8 @@
 **🌍 Environmental & Geospatial Intelligence**
 
 ![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge)
-![PostGIS](https://img.shields.io/badge/PostGIS%2FPostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Rasterio](https://img.shields.io/badge/Rasterio-4C9A2A?style=for-the-badge)
 ![xarray](https://img.shields.io/badge/xarray-00979D?style=for-the-badge)
-
-**🧠 LLM / RAG & Systems**
-
-![LangChain](https://img.shields.io/badge/🦜️🔗_LangChain-1C3C3C?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
